@@ -1,0 +1,12 @@
+{
+    "name": "sensortag-example-receiver",
+    "description": "SensorTag BLE simple key receiver",
+    "version": "0.0.1",
+    "author": {
+        "name": "nagesoft",
+        "email": "jhson@nagesoft.com"
+    },
+    "dependencies": {
+        "noble": ">=1.1.0"
+    }
+}
