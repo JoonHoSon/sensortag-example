@@ -1,0 +1,13 @@
+{
+    "name": "sensortag-example-actuator",
+    "description": "SensorTag BLE simple key actuator",
+    "version": "0.0.1",
+    "author": {
+        "name": "nagesoft",
+        "email": "jhson@nagesoft.com"
+    },
+    "dependencies": {
+        "wotjs": "git+git@github.com:nage-son/etri-wotjs-enhanced.git",
+        "express": ">=4.13.3"
+    }
+}
