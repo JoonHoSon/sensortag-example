@@ -7,6 +7,8 @@
         "email": "jhson@nagesoft.com"
     },
     "dependencies": {
-        "noble": ">=1.1.0"
+        "noble": ">=1.1.0",
+        "log4js": ">=0.6.26",
+        "request": ">=2.61.0"
     }
 }

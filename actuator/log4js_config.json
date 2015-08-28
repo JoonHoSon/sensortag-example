@@ -1,0 +1,12 @@
+{
+    "levels": {
+        "ActuratorMain": "INFO",
+        "ActuratorLED": "DEBUG"
+    },
+    "replaceConsole": true,
+    "appenders": [
+        {
+            "type": "console"
+        }
+    ]
+}
