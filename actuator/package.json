@@ -8,6 +8,7 @@
     },
     "dependencies": {
         "wotjs": "git+git@github.com:nage-son/etri-wotjs-enhanced.git",
-        "express": ">=4.13.3"
+        "express": ">=4.13.3",
+        "body-parser": ">=1.13.3"
     }
 }
