@@ -10,6 +10,8 @@
         "wotjs": "git+git@github.com:nage-son/etri-wotjs-enhanced.git",
         "express": ">=4.13.3",
         "body-parser": ">=1.13.3",
-        "lodash": ">=3.10.1"
+        "lodash": ">=3.10.1",
+        "async": "1.4.2",
+        "log4js": "0.6.26"
     }
 }
